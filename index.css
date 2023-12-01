@@ -1,0 +1,39 @@
+body{ background-color: rgb(244, 11, 190);} 
+.css0{
+       background-color: yellow;
+            width: 100%;
+      text-align: center;
+}
+/* .css1{
+      background-color: white;
+      width: 50%;
+    text-align: left;
+
+} */
+ input[type="number"]{
+     text-align: right;
+            }
+input[type="email"]{
+   text-align: right;
+}
+input[type="password"]{
+      text-align: right;
+}
+input[type=submit]{
+     margin-right: 50px;
+}
+form{
+      line-height: 30px;
+   
+}
+legend{
+      background-color: yellow;
+      line-height: 0px;
+      text-align: right;
+}
+fieldset{
+      text-align: right;
+      background-image: url(nhla.png);
+      background-repeat: no-repeat;
+      background-size: 135px 153px;
+}
